@@ -1,0 +1,25 @@
+/* Alejandra Sánchez Mayo UO301326 */
+/* Estilos generales del proyecto MotoGp Desktop */
+
+/*Selector body*/
+body {
+     font-family:Arial, Helvetica, sans-serif;  /*Tipografía para todo el documento*/
+     color:black; /*color letra: negro*/
+     background-color: #fff; /*color fondo: blanco*/
+}
+
+/*Selector header*/
+header {
+    background-color: #f79489;  /*color fondo: coral*/
+    color:#f9f1f0;  /*color título: crema*/
+}
+
+/*Selector h1*/
+h1 {
+    color: #f9f1f0;  /*color elemento h1: crema*/
+}
+
+/*Selector nav a*/
+nav a{
+    color:#f9f1f0; /*color texto enlaces: crema*/
+}
